@@ -1,1 +1,3 @@
-![running_cat](running_cat.gif)
+<div align="center">
+    <img src="running_cat.gif">
+</div>
